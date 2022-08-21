@@ -1,4 +1,4 @@
-# snhu-template
+CS230 Operating Platforms
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
 A puzzle competition game was released on the Android platform by The Gaming Room, a successful mobile app game developer. To make the game available across other platforms and devices, the client wanted to create a web-based version of its existing Android app.
